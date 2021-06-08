@@ -1,6 +1,6 @@
 ## Spring Boot Rest API to users management
 
-Simple REST API created during the Code Anywhere Digital Innovation One BootCamp. This project was designed by 
+Simple REST API created during the Code Anywhere Digital Innovation One BootCamp. This project was designed by Rodrigo Peleias [GitHub](https://github.com/rpeleias/personapi_dio_live_coding) 
 
 Requirements to run the project:
 
