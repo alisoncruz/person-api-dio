@@ -22,3 +22,8 @@ Use an API Client to create some data. Them, put the url on the browser (or util
 http://localhost:8080/api/v1/people
 ```
 
+Deployed to Heroku:
+
+```
+https://apipersonlive.herokuapp.com/api/v1/people/
+```
